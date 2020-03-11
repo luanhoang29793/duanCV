@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.codegym : customer-management-1.0-SNAPSHOT.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6582880-110c-4b23-ac47-6cd998315714" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/casestudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/ApplicationIntializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/controller/ImagesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/controller/controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/model/FormImages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/model/Images.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/repository/ImagesRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/service/ImagesServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/service/impl/ImagesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/classes/java/main/com/codegym/service/impl/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/libs/casestudy-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/ApplicationIntializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/controller/ImagesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/controller/controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/model/FormImages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/model/Images.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/repository/ImagesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/service/ImagesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/service/impl/ImagesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/java/com/codegym/service/impl/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/done/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/images/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/images/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/images/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/images/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/layout/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/user/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/user/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/user/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/WEB-INF/views/user/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/aos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/bootstrap-datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/slicknav.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/fonts/icomoon/flaticon/font/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/fonts/icomoon/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/icon-fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/face1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/face2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/it1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/it2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/it3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/it4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/logo_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/post3_jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/images/post_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/aos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.nicescroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.slicknav.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/jquery.zoom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case study/casestudy/src/main/webapp/theme/js/sb-admin-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.idea/dataSources/ca12c594-b351-4b13-b712-f8ba15738219.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.idea/dataSources/ca12c594-b351-4b13-b712-f8ba15738219.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/build/libs/ungdungquanlykhachhang-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web/[Thực hành] Quản lý khách hàng Phân trang và tìm kiếm/build/libs/ungdungquanlykhachhang-1.0-SNAPSHOT.war" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="customer-management" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="customer-management" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1WSwPPVKpEV7lM0t82Fz8Y5hGXL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/man98/BC-Java-Back-end/JavaSpringBoot/Spring-Shopping" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5149425" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\baitap-codygym\casestudy\casestudy\src\main\webapp\theme\css" />
+      <recent name="D:\git\baitap-codygym\casestudy\casestudy\src\main\webapp\theme\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\baitap-codygym\casestudy\casestudy\src\main\webapp\theme\contact" />
+      <recent name="D:\git\baitap-codygym\casestudy\casestudy\src\main\webapp\theme\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : customer-management-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_customer-management_2" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50103" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : customer-management-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6582880-110c-4b23-ac47-6cd998315714" name="Default" comment="" />
+      <created>1528076281398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528076281398</updated>
+      <workItem from="1528076305831" duration="5209000" />
+      <workItem from="1528082647392" duration="4486000" />
+      <workItem from="1528106234932" duration="2037000" />
+      <workItem from="1528122159273" duration="6842000" />
+      <workItem from="1528360502534" duration="1719000" />
+      <workItem from="1528364218820" duration="1031000" />
+      <workItem from="1528366012291" duration="790000" />
+      <workItem from="1579156280891" duration="226000" />
+      <workItem from="1579156514740" duration="58000" />
+      <workItem from="1579156648677" duration="2499000" />
+      <workItem from="1579159199135" duration="1521000" />
+      <workItem from="1579160857047" duration="2381000" />
+      <workItem from="1579163300785" duration="9000" />
+      <workItem from="1579163873701" duration="286000" />
+      <workItem from="1579164265077" duration="23000" />
+      <workItem from="1579164301529" duration="1840000" />
+      <workItem from="1579250552643" duration="601000" />
+      <workItem from="1579276842094" duration="690000" />
+      <workItem from="1579362847892" duration="448000" />
+      <workItem from="1579503310732" duration="1422000" />
+      <workItem from="1579537616903" duration="2138000" />
+      <workItem from="1579618447485" duration="8076000" />
+      <workItem from="1579780399999" duration="3590000" />
+      <workItem from="1580035757155" duration="618000" />
+      <workItem from="1580036608448" duration="8568000" />
+      <workItem from="1580297882135" duration="6242000" />
+      <workItem from="1580343286856" duration="7873000" />
+      <workItem from="1580365815776" duration="4422000" />
+      <workItem from="1580440147011" duration="756000" />
+      <workItem from="1580485195687" duration="2234000" />
+      <workItem from="1580605865031" duration="4354000" />
+      <workItem from="1580693451541" duration="1213000" />
+      <workItem from="1580798242719" duration="11876000" />
+      <workItem from="1580827239587" duration="1731000" />
+      <workItem from="1580884282934" duration="5026000" />
+      <workItem from="1580905907766" duration="4762000" />
+      <workItem from="1580956811035" duration="2744000" />
+      <workItem from="1580959692945" duration="655000" />
+      <workItem from="1580975505127" duration="3120000" />
+      <workItem from="1581131559010" duration="1046000" />
+      <workItem from="1581206211564" duration="1592000" />
+      <workItem from="1581319555397" duration="660000" />
+      <workItem from="1581409752891" duration="932000" />
+      <workItem from="1581648537008" duration="128000" />
+      <workItem from="1581733049224" duration="29000" />
+      <workItem from="1582015406077" duration="2725000" />
+      <workItem from="1582084281459" duration="1196000" />
+      <workItem from="1582460120473" duration="842000" />
+      <workItem from="1582703792532" duration="620000" />
+      <workItem from="1582765712584" duration="65000" />
+      <workItem from="1582786114575" duration="5636000" />
+      <workItem from="1583029360993" duration="4468000" />
+      <workItem from="1583119753523" duration="4180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="3" key="#Project_Structure" timestamp="1582788846435">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="232" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579156663380" />
+    <state x="232" y="3" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1582788846435" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580959113601">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485725924" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1580959113601" />
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser" timestamp="1580811112353">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1580811112353" />
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579156326628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579156326628" />
+    <state x="554" y="97" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580810598931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="554" y="97" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580810598931" />
+    <state x="415" y="21" key="FileChooserDialogImpl" timestamp="1583153843756">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="415" y="20" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580884299819" />
+    <state x="415" y="21" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1583153843756" />
+    <state x="623" y="32" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581733073283" />
+    <state width="845" height="336" key="GridCell.Tab.0.bottom" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.0.center" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.0.left" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.0.right" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.1.bottom" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.1.center" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.1.left" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.1.right" timestamp="1581321413879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1581321413879" />
+    <state width="845" height="336" key="GridCell.Tab.2.bottom" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.2.bottom/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.2.center" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.2.center/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.2.left" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.2.left/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.2.right" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="139" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1580811059794" />
+    <state width="845" height="336" key="GridCell.Tab.2.right/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.3.bottom" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="245" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579164096814" />
+    <state width="845" height="336" key="GridCell.Tab.3.bottom/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.3.center" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="245" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1579164096814" />
+    <state width="845" height="336" key="GridCell.Tab.3.center/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.3.left" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="245" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1579164096814" />
+    <state width="845" height="336" key="GridCell.Tab.3.left/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state width="845" height="336" key="GridCell.Tab.3.right" timestamp="1581321413880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="834" height="245" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1579164096814" />
+    <state width="845" height="336" key="GridCell.Tab.3.right/0.0.1280.720@0.0.1280.720" timestamp="1581321413880" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1579164276389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579164276389" />
+    <state x="158" y="0" key="new project wizard" timestamp="1583029412416">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="158" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580606165134" />
+    <state x="158" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1583029412416" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/customer_management$Tomcat_9_0_30.ic" NAME="Tomcat 9.0.30 Coverage Results" MODIFIED="1579159232741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

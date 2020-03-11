@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/create-project">Create new User</a>
+<h1>User</h1>
+<table border="1">
+    <tr>
+        <th>Name Project </th>
+        <th>Description Project </th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    <th:block th:each="projects : ${skillList}">
+        <tr>
+            <td th:text="${projects.nameProject}"></td>
+            <td th:text="${projects.summaryProject}"></td>
+            <td th:text="${projects.imagesProject}"></td>
+            <td th:text="${projects.descriptionProject}"></td>
+            <td><a th:href="@{/edit-project/__${projects.idProject}__ }">Edit</a></td>
+            <td><a th:href="@{/delete-project/__${projects.idProject}__ }">Delete</a></td>
+        </tr>
+    </th:block>
+</table>
+</body>
+</html>

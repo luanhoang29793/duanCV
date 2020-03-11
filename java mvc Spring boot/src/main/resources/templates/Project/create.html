@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Project</title>
+</head>
+<body>
+<h1>Add project</h1>
+<p>
+    <a th:href="@{/}">Back to list project</a>
+</p>
+
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+<form th:action="@{/create-project}" th:object="${projectUpload}" method="post" enctype="multipart/form-data" }>
+
+    <table>
+        <tr>
+            <td><label>Name Project</label></td>
+            <td><input type="text" th:field="*{nameProject}"></td>
+        </tr>
+        <tr>
+            <td><label>Summary Project</label></td>
+            <td><input type="text" th:field = "*{file}" hidden="hidden"></td>
+            <td><input type="text" th:field="*{summaryProject}"></td>
+        </tr>
+        <tr>
+            <td><label>Images Project</label></td>
+            <td><input type="file" th:field="*{file}"></td>
+        </tr>
+
+
+        <tr>
+            <td><label>Description Project</label></td>
+            <td><input type="text" th:field="*{descriptionProject}"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="submit"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

@@ -1,0 +1,3 @@
+sap xem giam/ Tằn dan lay 6 nguoi:
+SELECT  * FROM project
+ORDER BY id_project DESC/ ASC LIMIT 6;

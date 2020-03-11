@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit User</title>
+</head>
+<body>
+<h1>Edit user</h1>
+<p>
+    <a href="/">User list</a>
+</p>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+<form th:action="@{/edit-project}" th:object="${project}" method="post">
+    <input th:type="hidden" name="id" th:field="*{idProject}">
+    <table>
+        <tr>
+            <td>servicce:</td>
+            <td><input type="text" th:field="*{nameProject}"/></td>
+        </tr>
+        <tr>
+            <td>servicce:</td>
+            <td><input type="text" th:field="*{summaryProject}"/></td>
+        </tr>
+        <tr>
+            <td>servicce:</td>
+            <td><input type="text" th:field="*{imagesProject}"/></td>
+        </tr>
+        <tr>
+            <td>description:</td>
+            <td><textarea  rows="10" cols="30" th:field="*{descriptionProject}"/></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Update project"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
